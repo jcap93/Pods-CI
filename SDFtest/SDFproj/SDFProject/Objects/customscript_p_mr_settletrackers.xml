@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_sdfp_test_list">
+  <description>SDF Test List</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SDF Test List</name>
+  <customvalues>
+    <customvalue scriptid="val_78458_t2069406_778">
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_78459_t2069406_411">
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_78460_t2069406_875">
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+	<customvalue scriptid="val_80180_t1591006_229">
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+  </customvalues>
+</customlist>

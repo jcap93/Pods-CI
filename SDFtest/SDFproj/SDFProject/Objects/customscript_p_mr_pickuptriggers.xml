@@ -1,0 +1,24 @@
+<customlist scriptid="custentity_com_timezone.xml">
+  <description>SDF Timezone</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SDF Timezone</name>
+  <customvalues>
+    <customvalue scriptid="val_78458_t2069406_745">
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_78459_t2069406_421">
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_78460_t2069406_867">
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+	<customvalue scriptid="val_80180_t1591006_212">
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+  </customvalues>
+</customlist>

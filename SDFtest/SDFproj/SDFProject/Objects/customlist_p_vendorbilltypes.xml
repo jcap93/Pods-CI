@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_sdfp_test_list.xml">
+  <description>SDF Vendor</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SDF Vendor</name>
+  <customvalues>
+    <customvalue scriptid="val_78458_t2069406_778">
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_78459_t2069406_411">
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_78460_t2069406_875">
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+  </customvalues>
+</customlist>

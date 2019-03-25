@@ -1,0 +1,11 @@
+<customlist scriptid="custentity_p_bankruptcyoverride.xml
+  <description>SDF Bankruptcy Override</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SDF Bankruptcy</name>
+  <customvalues>
+    <customvalue scriptid="val_78458_t2069406_778">
+      <isinactive>T</isinactive>
+      <value>1</value>
+    </customvalue>
+</customlist>
